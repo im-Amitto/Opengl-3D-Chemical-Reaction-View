@@ -1,6 +1,6 @@
-#3D Representaion of Chemical Reaction
+# 3D Representaion of Chemical Reaction
 
-##Project Menu
+## Project Menu
 
 Atoms :- can be used to toggle atom rendering
 Bonds :- can be used to toggle atom rendering
@@ -11,19 +11,21 @@ Atom Size :- Can scale atom size
 Quit :- Exit Program 
 
 
-##Project Images
-Contain Program screenshot at various instances
+## Project Images
+Project Image Folder of Repo
 
-##How to run?
+## How to run?
 
-Run ./run.sh        (change permission using file properties)
+Run  
+>./run.sh        (change permission using file properties)
 
 or
 
-g++ -w main.cpp  -lglut -lGL -lGLU -o project
-./project 
+>g++ -w main.cpp  -lglut -lGL -lGLU -o project
+>./project 
 
 
 or 
 
-execute ./project
+execute  
+>./project
