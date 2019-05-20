@@ -1,7 +1,3 @@
-//Amit Meena
-//160001004
-//Pushpendra Kumar
-//16001046
 #include <bits/stdc++.h>
 #include <GL/glut.h>
 #include <GL/freeglut.h>
@@ -88,7 +84,7 @@ GLuint texture[120];
 
 string atomInfoS = "";
 string Instruction = "Instructions :-\nClick on atom to get it's info\nN --> Next Reaction\nP --> Prev Reaction\nW,A,S,D,Q,E --> Camera Movement on X,Y,Z\nZ + Mouse Move --> Rotate Window";
-string projectInfo = "Chemical Reaction 3D View\nSubmitted by :- \n  Amit Kumar Meena - 160001004 \n  Pushpendra Kumar - 160001046\nSupervised by :- \n  Dr. Somnath Dey";
+string projectInfo = "Opengl-3D-Chemical-Reaction-View";
 
 string AtomInfo[120];
 
